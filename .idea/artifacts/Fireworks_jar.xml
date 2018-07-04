@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Fireworks:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fireworks_jar</output-path>
+    <root id="archive" name="Fireworks.jar">
+      <element id="module-output" name="Fireworks" />
+      <element id="extracted-dir" path="D:/Applications/processing-3.3.7/core/library/core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Applications/processing-3.3.7/core/library/jogl-all.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Applications/processing-3.3.7/core/library/gluegen-rt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Applications/processing-3.3.7/core/library/jogl-all-natives-linux-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Applications/processing-3.3.7/core/library/jogl-all-natives-linux-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Applications/processing-3.3.7/core/library/gluegen-rt-natives-linux-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Applications/processing-3.3.7/core/library/jogl-all-natives-windows-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Applications/processing-3.3.7/core/library/gluegen-rt-natives-linux-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Applications/processing-3.3.7/core/library/jogl-all-natives-linux-aarch64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Applications/processing-3.3.7/core/library/jogl-all-natives-linux-armv6hf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Applications/processing-3.3.7/core/library/jogl-all-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Applications/processing-3.3.7/core/library/gluegen-rt-natives-windows-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Applications/processing-3.3.7/core/library/gluegen-rt-natives-linux-aarch64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Applications/processing-3.3.7/core/library/gluegen-rt-natives-linux-armv6hf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Applications/processing-3.3.7/core/library/gluegen-rt-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Applications/processing-3.3.7/core/library/jogl-all-natives-macosx-universal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Applications/processing-3.3.7/core/library/gluegen-rt-natives-macosx-universal.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
